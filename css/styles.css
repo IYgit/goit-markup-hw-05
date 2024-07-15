@@ -675,11 +675,11 @@ a {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  display: flex;
   align-items: center;
 }
 
 .modal-check-box {
+  display: inline-flex;
   width: 16px;
   height: 16px;
   border-radius: 2px;
