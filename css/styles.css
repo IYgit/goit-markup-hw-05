@@ -589,13 +589,13 @@ a {
   margin-bottom: 8px;
 }
 
-.modal-label {
+.modal-check-text {
   color: var(--light-slate);
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  display: block;
-  margin-bottom: 4px;
+  align-items: center;
+  display: flex;
 }
 
 .modal-icon-wrapper {
@@ -678,16 +678,6 @@ a {
 
 
 /* ************** */
-
-.modal-check-text {
-  color: var(--light-slate);
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-  display: block;
-  align-items: center;
-}
-
 .modal-check-box {
   display: inline-flex;
   width: 16px;
