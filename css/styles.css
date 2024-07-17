@@ -678,6 +678,18 @@ a {
 
 
 /* ************** */
+.modal-label {
+  color: var(--light-slate);
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  display: block;
+  margin-bottom: 4px;
+}
+
+
+
+
 .modal-check-box {
   display: inline-flex;
   width: 16px;
